@@ -1,1 +1,1 @@
-![RAD AI ROADSHOW](rad-ai-roadshow.png)
+![Java for AI Hands-on Workshop](java4ai.png)
